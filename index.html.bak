@@ -19,7 +19,7 @@
             <li><a href="PROCESS.html">Our Process</a></li>
             <li><a href="Gallery.html">Gallery</a></li>
             <li><a href="mailto:badzi@badzi.ca" class="icon solid alt fa-envelope">E-mail</a></li>
-            <li><a href="tel:416-315-1695"><i>Call us: (416)-696-6969</i></a></li>
+            <li><a href="tel:416-315-1695" class="icon solid alt fa-phone">(416)-696-6969</a></li>
           </ul>
         </nav>
       </header>
@@ -27,9 +27,9 @@
       <section id="banner">
         <div class="content">
           <header>
-            <h2><span style="color: #cccccc;"><b>IDAK</b></span> Tile and Marble</h2>
-            <h3> <i>Jebemo kevu s plocicama!</i> </h3>
-            <h3> <i>I imamo Lukasenka</i> </h3>
+            <h2>IDAK Tile and Marble</h2>
+            <h3><i>Jebemo kevu s plocicama!</i> </h3>
+            <h3><i>I imamo Lukasenka</i></h3>
           </header>
           <span class="image"><fade><img src="images/Picture2.png" alt=""></fade></span>
         </div>
