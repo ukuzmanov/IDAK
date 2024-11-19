@@ -10,23 +10,21 @@
   <body class="is-preload landing">
     <div id="page-wrapper"> <!-- Header -->
       <header id="header">
-        <h2 id="logo" style="float: right;margin-right: 50px;margin-top: 50px;">OUR SERVICES</h2>
+        <h2 id="logo" style="float: right;margin-right: 50px;margin-top: 50px;">OUR
+          SERVICES</h2>
         <nav id="nav">
           <ul>
             <fade><img src="images/Picture2.png"></fade>
-            <li><a href="index.html" class="button primary">Home</a></li>
-            
-            <li><a href="SERVICES.html">Our Services</a></li>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="SERVICES.html" class="button primary">Our Services</a></li>
             <li><a href="PROCESS.html">Our Process</a></li>
             <li><a href="Gallery.html">Gallery</a></li>
-            <li><a href="mailto:badzi@badzi.ca" class="icon solid alt fa-envelope">Contact
-                Us</a></li>
-            <li>(416)-696-6969</li>
+            <li><a href="mailto:badzi@badzi.ca" class="icon solid alt fa-envelope">E-mail</a></li>
+            <li><a href="tel:416-315-1695" class="icon solid alt fa-phone"><i>Call us: (416)-696-6969</i></a></li>
           </ul>
         </nav>
       </header>
       <!-- Banner -->
-      
       <!-- Two -->
       <section id="two" class="spotlight style2 left"> <span class="image fit main"><img
 
